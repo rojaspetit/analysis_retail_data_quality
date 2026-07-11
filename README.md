@@ -8,8 +8,6 @@ The main focus is not only to clean missing or invalid values, but also to inves
 >
 > This project was developed for educational purposes using a simulated retail business case. The analysis was independently expanded and structured as a Data Analytics portfolio project.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rojaspetit/analysis_retail_data_quality/blob/main/analysis_retail_data_quality.ipynb)
-
 ---
 
 ## 📌 Project Overview
