@@ -125,7 +125,6 @@ The reliable temporal coverage is limited to one year of monthly activity, which
 
 ```text
 analysis_retail_data_quality/
-│
 ├── README.md
 ├── analysis_retail_data_quality.ipynb
 │
