@@ -127,13 +127,11 @@ The reliable temporal coverage is limited to one year of monthly activity, which
 analysis_retail_data_quality/
 ├── README.md
 ├── analysis_retail_data_quality.ipynb
-│
 ├── data/
 │   ├── raw/
 │   │   └── retail_sales.csv
 │   └── processed/
 │       └── retail_clean.csv
-│
 └── images/
     ├── cleaning_pipeline_impact.png
     └── monthly_order_activity.png
